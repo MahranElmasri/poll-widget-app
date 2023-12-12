@@ -11,7 +11,7 @@ A simple and customizable poll widget built as a web component using JavaScript 
 - [Support](#support)
 - [Technologies Used](#technologies-used)
 - [Web Component Support](#web-component-support)
-- [Testin](#testing)
+- [Testing](#testing)
 
 ## Getting Started
 
@@ -92,4 +92,4 @@ allowing us to use it across different web frameworks or HTML.
 
 The Demo HTML pages can be found in the public folder.
 
-[![Screen Shot](public/screen-shot.png)]
+![Screen Shot](public/screen-shot.png)
