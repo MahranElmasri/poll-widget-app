@@ -45,7 +45,7 @@ To add the Poll Widget to your HTML page, follow these steps:
 
 1. Download the `poll-widget.min.js` and `poll-widget.min.css` files from the repository.
 2. Include the following script `<script src="poll-widget.min.js"></script>` tag in the `<head>` section.
-3. Include the <poll-widget> tag in body section.
+3. Include the `<poll-widget>` tag in body section.
 
 ```html
 <!DOCTYPE html>
